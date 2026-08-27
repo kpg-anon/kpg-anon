@@ -173,6 +173,23 @@ def fetch_profile(login, token):
     return user
 
 
+def fetch_social(login, token):
+    """Follower counts from REST.
+
+    GraphQL drops edges it cannot resolve, so a suspended or deleted account
+    someone follows makes following.totalCount read 0 where the profile page,
+    which is REST-backed, shows 1.
+    """
+    req = urllib.request.Request(
+        "https://api.github.com/users/" + login,
+        headers={"Authorization": "bearer " + token,
+                 "Accept": "application/vnd.github+json",
+                 "User-Agent": "profile-card-generator"})
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        data = json.load(resp)
+    return data["followers"], data["following"]
+
+
 def fetch_contributions(login, created_year, this_year, token):
     """One contributionsCollection per year; the API caps a span at 12 months."""
     parts = []
@@ -289,7 +306,7 @@ def uptime(created):
     return " ".join(parts)
 
 
-def collect(user, contributions, this_year):
+def collect(user, contributions, this_year, social):
     repos = user["repositories"]["nodes"]
     langs = Counter()
     colors = {}
@@ -315,8 +332,8 @@ def collect(user, contributions, this_year):
         "login": user["login"],
         "location": user["location"],
         "created": user["createdAt"],
-        "followers": user["followers"]["totalCount"],
-        "following": user["following"]["totalCount"],
+        "followers": social[0],
+        "following": social[1],
         "repos": len(repos),
         "archived": sum(1 for r in repos if r["isArchived"]),
         "stars": sum(r["stargazerCount"] for r in repos),
@@ -560,7 +577,8 @@ def main():
     this_year = dt.datetime.now(dt.timezone.utc).year
     contributions = fetch_contributions(args.user, created_year, this_year,
                                         token)
-    stats = collect(user, contributions, this_year)
+    social = fetch_social(args.user, token)
+    stats = collect(user, contributions, this_year, social)
 
     avatar = avatar_ascii(user["avatarUrl"], AVATAR_COLS, AVATAR_ROWS)
     top_langs = stats["langs"].most_common(args.top)
