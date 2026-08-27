@@ -16,7 +16,7 @@
   <text x="458.80" y="136.92" fill="#1f2328" textLength="42.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">3y 5m</text>
   <text x="332.80" y="155.92" fill="#0969da" textLength="42.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Repos</text>
   <text x="374.80" y="155.92" fill="#59636e" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ........ </text>
-  <text x="458.80" y="155.92" fill="#1f2328" textLength="176.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">16 public, 1 archived</text>
+  <text x="458.80" y="155.92" fill="#1f2328" textLength="176.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">17 public, 1 archived</text>
   <text x="332.80" y="174.92" fill="#0969da" textLength="42.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Stars</text>
   <text x="374.80" y="174.92" fill="#59636e" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ........ </text>
   <text x="458.80" y="174.92" fill="#1f2328" textLength="75.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">21 earned</text>
@@ -28,7 +28,7 @@
   <text x="458.80" y="212.92" fill="#1f2328" textLength="126.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4 (following 0)</text>
   <text x="332.80" y="231.92" fill="#0969da" textLength="58.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Commits</text>
   <text x="391.60" y="231.92" fill="#59636e" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ...... </text>
-  <text x="458.80" y="231.92" fill="#1f2328" textLength="226.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">298 lifetime, 230 this year</text>
+  <text x="458.80" y="231.92" fill="#1f2328" textLength="226.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">299 lifetime, 231 this year</text>
   <text x="332.80" y="250.92" fill="#0969da" textLength="75.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Pull Reqs</text>
   <text x="408.40" y="250.92" fill="#59636e" textLength="50.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .... </text>
   <text x="458.80" y="250.92" fill="#1f2328" textLength="168.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">7 opened, 1 reviewed</text>
@@ -37,7 +37,7 @@
   <text x="458.80" y="269.92" fill="#1f2328" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1 opened</text>
   <text x="332.80" y="288.92" fill="#0969da" textLength="75.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Active In</text>
   <text x="408.40" y="288.92" fill="#59636e" textLength="50.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .... </text>
-  <text x="458.80" y="288.92" fill="#1f2328" textLength="142.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">5 repos this year</text>
+  <text x="458.80" y="288.92" fill="#1f2328" textLength="142.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">6 repos this year</text>
   <text x="332.80" y="307.92" fill="#0969da" textLength="75.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Languages</text>
   <text x="408.40" y="307.92" fill="#59636e" textLength="50.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .... </text>
   <text x="458.80" y="307.92" fill="#1f2328" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">15 tracked</text>
@@ -52,7 +52,7 @@
   <text x="458.80" y="364.92" fill="#1f2328" textLength="100.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">KPOP GENERAL</text>
   <text x="332.80" y="383.92" fill="#0969da" textLength="75.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Last Push</text>
   <text x="408.40" y="383.92" fill="#59636e" textLength="50.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .... </text>
-  <text x="458.80" y="383.92" fill="#1f2328" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2026-08-26</text>
+  <text x="458.80" y="383.92" fill="#1f2328" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2026-08-27</text>
   <text x="736.00" y="60.92" fill="#1a7f37" textLength="16.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">$ </text>
   <text x="752.80" y="60.92" fill="#1f2328" textLength="243.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">langstats --by-bytes --top 12</text>
   <text x="736.00" y="98.92" fill="#1f2328" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">JavaScript   </text>
