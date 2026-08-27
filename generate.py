@@ -163,7 +163,9 @@ def fetch_profile(login, token):
         if user is None:
             raise SystemExit("no such user: " + login)
         block = user["repositories"]
-        repos.extend(block["nodes"])
+        # The profile repo holds this generator, not actual work, so leaving it
+        # in would make the card partly a report on itself.
+        repos.extend(r for r in block["nodes"] if r["name"] != login)
         if not block["pageInfo"]["hasNextPage"]:
             break
         cursor = block["pageInfo"]["endCursor"]
