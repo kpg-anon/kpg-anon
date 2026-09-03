@@ -28,7 +28,7 @@
   <text x="458.80" y="212.92" fill="#c9d1d9" textLength="126.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4 (following 1)</text>
   <text x="332.80" y="231.92" fill="#58a6ff" textLength="58.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Commits</text>
   <text x="391.60" y="231.92" fill="#6e7681" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ...... </text>
-  <text x="458.80" y="231.92" fill="#c9d1d9" textLength="226.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">307 lifetime, 239 this year</text>
+  <text x="458.80" y="231.92" fill="#c9d1d9" textLength="226.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">308 lifetime, 240 this year</text>
   <text x="332.80" y="250.92" fill="#58a6ff" textLength="75.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Pull Reqs</text>
   <text x="408.40" y="250.92" fill="#6e7681" textLength="50.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .... </text>
   <text x="458.80" y="250.92" fill="#c9d1d9" textLength="168.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">7 opened, 1 reviewed</text>
@@ -43,7 +43,7 @@
   <text x="458.80" y="307.92" fill="#c9d1d9" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">15 tracked</text>
   <text x="332.80" y="326.92" fill="#58a6ff" textLength="50.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Source</text>
   <text x="383.20" y="326.92" fill="#6e7681" textLength="75.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ....... </text>
-  <text x="458.80" y="326.92" fill="#c9d1d9" textLength="117.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">5.2 MB indexed</text>
+  <text x="458.80" y="326.92" fill="#c9d1d9" textLength="117.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">5.3 MB indexed</text>
   <text x="332.80" y="345.92" fill="#58a6ff" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Top Repo</text>
   <text x="400.00" y="345.92" fill="#6e7681" textLength="58.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ..... </text>
   <text x="458.80" y="345.92" fill="#c9d1d9" textLength="142.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">kbj-dl (10 stars)</text>
@@ -52,34 +52,34 @@
   <text x="458.80" y="364.92" fill="#c9d1d9" textLength="100.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">KPOP GENERAL</text>
   <text x="332.80" y="383.92" fill="#58a6ff" textLength="75.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Last Push</text>
   <text x="408.40" y="383.92" fill="#6e7681" textLength="50.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .... </text>
-  <text x="458.80" y="383.92" fill="#c9d1d9" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2026-08-26</text>
+  <text x="458.80" y="383.92" fill="#c9d1d9" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2026-09-03</text>
   <text x="736.00" y="60.92" fill="#3fb950" textLength="16.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">$ </text>
   <text x="752.80" y="60.92" fill="#c9d1d9" textLength="243.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">langstats --by-bytes --top 12</text>
   <text x="736.00" y="98.92" fill="#c9d1d9" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">JavaScript   </text>
   <text x="845.20" y="98.92" fill="#f1e05a" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">██████████</text>
   <text x="929.20" y="98.92" fill="#21262d" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">░░░░░░░░</text>
-  <text x="996.40" y="98.92" fill="#c9d1d9" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   56.6%</text>
+  <text x="996.40" y="98.92" fill="#c9d1d9" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   56.3%</text>
   <text x="1063.60" y="98.92" fill="#6e7681" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    3.0 MB</text>
   <text x="736.00" y="117.92" fill="#c9d1d9" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Python       </text>
   <text x="845.20" y="117.92" fill="#3572a5" textLength="25.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">███</text>
   <text x="870.40" y="117.92" fill="#21262d" textLength="126.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">░░░░░░░░░░░░░░░</text>
-  <text x="996.40" y="117.92" fill="#c9d1d9" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   15.1%</text>
+  <text x="996.40" y="117.92" fill="#c9d1d9" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   15.0%</text>
   <text x="1063.60" y="117.92" fill="#6e7681" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  809.7 KB</text>
   <text x="736.00" y="136.92" fill="#c9d1d9" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">GLSL         </text>
   <text x="845.20" y="136.92" fill="#5686a5" textLength="8.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">█</text>
   <text x="853.60" y="136.92" fill="#21262d" textLength="142.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">░░░░░░░░░░░░░░░░░</text>
-  <text x="996.40" y="136.92" fill="#c9d1d9" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    6.6%</text>
+  <text x="996.40" y="136.92" fill="#c9d1d9" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    6.5%</text>
   <text x="1063.60" y="136.92" fill="#6e7681" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  352.4 KB</text>
-  <text x="736.00" y="155.92" fill="#c9d1d9" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Lua          </text>
-  <text x="845.20" y="155.92" fill="#5454aa" textLength="8.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">█</text>
+  <text x="736.00" y="155.92" fill="#c9d1d9" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">TypeScript   </text>
+  <text x="845.20" y="155.92" fill="#3178c6" textLength="8.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">█</text>
   <text x="853.60" y="155.92" fill="#21262d" textLength="142.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">░░░░░░░░░░░░░░░░░</text>
-  <text x="996.40" y="155.92" fill="#c9d1d9" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    6.6%</text>
-  <text x="1063.60" y="155.92" fill="#6e7681" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  351.2 KB</text>
-  <text x="736.00" y="174.92" fill="#c9d1d9" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">TypeScript   </text>
-  <text x="845.20" y="174.92" fill="#3178c6" textLength="8.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">█</text>
+  <text x="996.40" y="155.92" fill="#c9d1d9" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    6.5%</text>
+  <text x="1063.60" y="155.92" fill="#6e7681" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  352.0 KB</text>
+  <text x="736.00" y="174.92" fill="#c9d1d9" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Lua          </text>
+  <text x="845.20" y="174.92" fill="#5454aa" textLength="8.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">█</text>
   <text x="853.60" y="174.92" fill="#21262d" textLength="142.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">░░░░░░░░░░░░░░░░░</text>
-  <text x="996.40" y="174.92" fill="#c9d1d9" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    6.1%</text>
-  <text x="1063.60" y="174.92" fill="#6e7681" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  327.4 KB</text>
+  <text x="996.40" y="174.92" fill="#c9d1d9" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    6.5%</text>
+  <text x="1063.60" y="174.92" fill="#6e7681" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  351.2 KB</text>
   <text x="736.00" y="193.92" fill="#c9d1d9" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Rust         </text>
   <text x="845.20" y="193.92" fill="#dea584" textLength="8.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">█</text>
   <text x="853.60" y="193.92" fill="#21262d" textLength="142.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">░░░░░░░░░░░░░░░░░</text>
@@ -104,7 +104,7 @@
   <text x="845.20" y="269.92" fill="#8258ab" textLength="8.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">█</text>
   <text x="853.60" y="269.92" fill="#21262d" textLength="142.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">░░░░░░░░░░░░░░░░░</text>
   <text x="996.40" y="269.92" fill="#c9d1d9" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    1.0%</text>
-  <text x="1063.60" y="269.92" fill="#6e7681" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   52.1 KB</text>
+  <text x="1063.60" y="269.92" fill="#6e7681" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   53.2 KB</text>
   <text x="736.00" y="288.92" fill="#c9d1d9" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">HTML         </text>
   <text x="845.20" y="288.92" fill="#e34c26" textLength="8.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">█</text>
   <text x="853.60" y="288.92" fill="#21262d" textLength="142.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">░░░░░░░░░░░░░░░░░</text>
