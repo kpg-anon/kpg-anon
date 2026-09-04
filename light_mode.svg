@@ -28,7 +28,7 @@
   <text x="458.80" y="212.92" fill="#1f2328" textLength="126.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4 (following 1)</text>
   <text x="332.80" y="231.92" fill="#0969da" textLength="58.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Commits</text>
   <text x="391.60" y="231.92" fill="#59636e" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ...... </text>
-  <text x="458.80" y="231.92" fill="#1f2328" textLength="226.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">308 lifetime, 240 this year</text>
+  <text x="458.80" y="231.92" fill="#1f2328" textLength="226.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">309 lifetime, 241 this year</text>
   <text x="332.80" y="250.92" fill="#0969da" textLength="75.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Pull Reqs</text>
   <text x="408.40" y="250.92" fill="#59636e" textLength="50.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .... </text>
   <text x="458.80" y="250.92" fill="#1f2328" textLength="168.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">7 opened, 1 reviewed</text>
@@ -52,7 +52,7 @@
   <text x="458.80" y="364.92" fill="#1f2328" textLength="100.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">KPOP GENERAL</text>
   <text x="332.80" y="383.92" fill="#0969da" textLength="75.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Last Push</text>
   <text x="408.40" y="383.92" fill="#59636e" textLength="50.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .... </text>
-  <text x="458.80" y="383.92" fill="#1f2328" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2026-09-03</text>
+  <text x="458.80" y="383.92" fill="#1f2328" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2026-09-04</text>
   <text x="736.00" y="60.92" fill="#1a7f37" textLength="16.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">$ </text>
   <text x="752.80" y="60.92" fill="#1f2328" textLength="243.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">langstats --by-bytes --top 12</text>
   <text x="736.00" y="98.92" fill="#1f2328" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">JavaScript   </text>
@@ -65,16 +65,16 @@
   <text x="870.40" y="117.92" fill="#eaeef2" textLength="126.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">░░░░░░░░░░░░░░░</text>
   <text x="996.40" y="117.92" fill="#1f2328" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   15.0%</text>
   <text x="1063.60" y="117.92" fill="#59636e" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  809.7 KB</text>
-  <text x="736.00" y="136.92" fill="#1f2328" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">GLSL         </text>
-  <text x="845.20" y="136.92" fill="#5686a5" textLength="8.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">█</text>
+  <text x="736.00" y="136.92" fill="#1f2328" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">TypeScript   </text>
+  <text x="845.20" y="136.92" fill="#3178c6" textLength="8.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">█</text>
   <text x="853.60" y="136.92" fill="#eaeef2" textLength="142.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">░░░░░░░░░░░░░░░░░</text>
-  <text x="996.40" y="136.92" fill="#1f2328" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    6.5%</text>
-  <text x="1063.60" y="136.92" fill="#59636e" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  352.4 KB</text>
-  <text x="736.00" y="155.92" fill="#1f2328" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">TypeScript   </text>
-  <text x="845.20" y="155.92" fill="#3178c6" textLength="8.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">█</text>
+  <text x="996.40" y="136.92" fill="#1f2328" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    6.6%</text>
+  <text x="1063.60" y="136.92" fill="#59636e" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  356.7 KB</text>
+  <text x="736.00" y="155.92" fill="#1f2328" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">GLSL         </text>
+  <text x="845.20" y="155.92" fill="#5686a5" textLength="8.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">█</text>
   <text x="853.60" y="155.92" fill="#eaeef2" textLength="142.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">░░░░░░░░░░░░░░░░░</text>
   <text x="996.40" y="155.92" fill="#1f2328" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    6.5%</text>
-  <text x="1063.60" y="155.92" fill="#59636e" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  352.0 KB</text>
+  <text x="1063.60" y="155.92" fill="#59636e" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  352.4 KB</text>
   <text x="736.00" y="174.92" fill="#1f2328" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Lua          </text>
   <text x="845.20" y="174.92" fill="#000080" textLength="8.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">█</text>
   <text x="853.60" y="174.92" fill="#eaeef2" textLength="142.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">░░░░░░░░░░░░░░░░░</text>
