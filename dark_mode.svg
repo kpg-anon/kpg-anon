@@ -28,7 +28,7 @@
   <text x="458.80" y="212.92" fill="#c9d1d9" textLength="126.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4 (following 1)</text>
   <text x="332.80" y="231.92" fill="#58a6ff" textLength="58.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Commits</text>
   <text x="391.60" y="231.92" fill="#6e7681" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ...... </text>
-  <text x="458.80" y="231.92" fill="#c9d1d9" textLength="226.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">377 lifetime, 309 this year</text>
+  <text x="458.80" y="231.92" fill="#c9d1d9" textLength="226.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">379 lifetime, 311 this year</text>
   <text x="332.80" y="250.92" fill="#58a6ff" textLength="75.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Pull Reqs</text>
   <text x="408.40" y="250.92" fill="#6e7681" textLength="50.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .... </text>
   <text x="458.80" y="250.92" fill="#c9d1d9" textLength="168.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">7 opened, 1 reviewed</text>
@@ -52,7 +52,7 @@
   <text x="458.80" y="364.92" fill="#c9d1d9" textLength="100.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">KPOP GENERAL</text>
   <text x="332.80" y="383.92" fill="#58a6ff" textLength="75.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Last Push</text>
   <text x="408.40" y="383.92" fill="#6e7681" textLength="50.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .... </text>
-  <text x="458.80" y="383.92" fill="#c9d1d9" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2026-10-29</text>
+  <text x="458.80" y="383.92" fill="#c9d1d9" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2026-11-04</text>
   <text x="736.00" y="60.92" fill="#3fb950" textLength="16.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">$ </text>
   <text x="752.80" y="60.92" fill="#c9d1d9" textLength="243.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">langstats --by-bytes --top 12</text>
   <text x="736.00" y="98.92" fill="#c9d1d9" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">JavaScript   </text>
@@ -88,7 +88,7 @@
   <text x="736.00" y="212.92" fill="#c9d1d9" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CSS          </text>
   <text x="845.20" y="212.92" fill="#8258ab" textLength="8.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">█</text>
   <text x="853.60" y="212.92" fill="#21262d" textLength="142.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">░░░░░░░░░░░░░░░░░</text>
-  <text x="996.40" y="212.92" fill="#c9d1d9" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    2.1%</text>
+  <text x="996.40" y="212.92" fill="#c9d1d9" textLength="67.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    2.0%</text>
   <text x="1063.60" y="212.92" fill="#6e7681" textLength="84.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  117.8 KB</text>
   <text x="736.00" y="231.92" fill="#c9d1d9" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Svelte       </text>
   <text x="845.20" y="231.92" fill="#ff3e00" textLength="8.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">█</text>
